@@ -1,0 +1,19 @@
+{
+  "name": "graphql-project-study",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "app": "nodemon ./server/app"
+  },
+  "author": "José Enrique López Obeso",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.0",
+    "express-graphql": "^0.12.0",
+    "graphql": "^16.9.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
